@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+
+ /* body{
+   overflow: hidden;
+  } */
+  
+  /* .home,
+  .services,
+  .products,
+  .sign-up {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  } */
+  
+  /* .services {
+    background-image: url('/images/img-2.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  } */
+  
+  /* .products {
+    background-image: url('/images/img-1.jpeg');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  } */
+  
+  /* .sign-up {
+    background-image: url('https://media.istockphoto.com/id/1012323872/photo/medical-insurance-concept-with-family-and-stethoscope-on-wooden-desk.jpg?s=612x612&w=0&k=20&c=fBRwbx_iRR50Kr4uw_ofRrq7nRryP_BeCm5doXpX2Sc=');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  } */

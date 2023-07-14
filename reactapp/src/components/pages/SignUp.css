@@ -1,0 +1,106 @@
+.sign-up-text{
+  font-family: 'EB Garamond', serif;
+  font-size: 50px;
+  margin-bottom:10px;
+}
+.sign-up{
+    font-family:cursive;
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+  }
+  .sign-up .content{
+  width: 30%;
+  height: 80vh;
+  border-radius: 10px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content: center;
+}
+  .sign-up-form{
+    font-family: cursive;
+    padding-left: 5px;
+    padding-right: 5px;
+    height:80%; 
+    width: 360px;
+    display:flex; 
+    flex-direction:column;
+    align-items:center;
+    border-radius: 30px;
+    border: black solid 1px;
+    justify-content: center;
+    background-color: aliceblue;    
+    font-size: medium;
+    text-align: left;
+    padding-top: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;   
+}
+.sign-up-form div input{
+    width: 240px;
+    height: 25px;
+    margin: 6px 5px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.sign-up-form div label{
+  width: 100%;
+  text-align: left;
+  margin-bottom: 5%;
+  font-size: medium;
+  color: rgb(18, 18, 74);
+}
+.sign-up-form select{
+  width: 240PX;
+  height: 25px;
+  margin: 8px;
+}
+.sign-up-form button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(247, 243, 243);
+  background-color: #0a0a0a;
+  cursor: pointer;
+  padding: 10px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 10px;
+  border-radius: 10px;  
+} 
+.sign-up-form button:hover{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(247, 243, 243);
+  background-color: #2e1dc2;
+  cursor: pointer;
+  padding: 10px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 10px;
+  border-radius: 10px;  
+} 
+.signin-container p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px;
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+.signin-link{
+  margin-left: 10px;
+}

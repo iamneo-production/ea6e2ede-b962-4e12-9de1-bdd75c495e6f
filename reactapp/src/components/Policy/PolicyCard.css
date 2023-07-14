@@ -1,0 +1,45 @@
+#resta-card {
+    border: px solid black;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    border-radius: 20px;
+    color: black;
+  
+  }  
+  
+  #ss-rest {
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+  
+  
+  }
+  
+  #rating {
+    border: 3px solid white;
+    padding-left: 10px;
+    padding-right: 20px;
+    width: 30px;
+    height: 25px;
+    background-color: rgb(64, 142, 11);
+    margin-left: 330px;
+    margin-top: -45px;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  #rate {
+    margin-left: 20px;
+    margin-top: -20px;
+  }
+  
+  #star {
+    margin-bottom: -5px;
+  }
+  
+  #whole{
+    display: inline-block;
+    gap: 5rem;
+   text-decoration: none;
+  }
